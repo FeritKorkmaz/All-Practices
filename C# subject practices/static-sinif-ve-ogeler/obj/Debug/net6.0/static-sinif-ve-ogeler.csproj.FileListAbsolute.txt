@@ -1,0 +1,15 @@
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\bin\Debug\net6.0\static-sinif-ve-ogeler.exe
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\bin\Debug\net6.0\static-sinif-ve-ogeler.deps.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\bin\Debug\net6.0\static-sinif-ve-ogeler.runtimeconfig.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\bin\Debug\net6.0\static-sinif-ve-ogeler.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\bin\Debug\net6.0\static-sinif-ve-ogeler.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\obj\Debug\net6.0\static-sinif-ve-ogeler.csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\obj\Debug\net6.0\static-sinif-ve-ogeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\obj\Debug\net6.0\static-sinif-ve-ogeler.AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\obj\Debug\net6.0\static-sinif-ve-ogeler.AssemblyInfo.cs
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\obj\Debug\net6.0\static-sinif-ve-ogeler.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\obj\Debug\net6.0\static-sinif-ve-ogeler.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\obj\Debug\net6.0\refint\static-sinif-ve-ogeler.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\obj\Debug\net6.0\static-sinif-ve-ogeler.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\obj\Debug\net6.0\static-sinif-ve-ogeler.genruntimeconfig.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\static-sinif-ve-ogeler\obj\Debug\net6.0\ref\static-sinif-ve-ogeler.dll

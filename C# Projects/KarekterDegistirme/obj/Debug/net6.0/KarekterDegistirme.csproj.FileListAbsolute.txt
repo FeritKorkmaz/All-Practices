@@ -1,0 +1,15 @@
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\bin\Debug\net6.0\KarekterDegistirme.exe
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\bin\Debug\net6.0\KarekterDegistirme.deps.json
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\bin\Debug\net6.0\KarekterDegistirme.runtimeconfig.json
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\bin\Debug\net6.0\KarekterDegistirme.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\bin\Debug\net6.0\KarekterDegistirme.pdb
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\obj\Debug\net6.0\KarekterDegistirme.csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\obj\Debug\net6.0\KarekterDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\obj\Debug\net6.0\KarekterDegistirme.AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\obj\Debug\net6.0\KarekterDegistirme.AssemblyInfo.cs
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\obj\Debug\net6.0\KarekterDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\obj\Debug\net6.0\KarekterDegistirme.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\obj\Debug\net6.0\refint\KarekterDegistirme.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\obj\Debug\net6.0\KarekterDegistirme.pdb
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\obj\Debug\net6.0\KarekterDegistirme.genruntimeconfig.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\KarekterDegistirme\obj\Debug\net6.0\ref\KarekterDegistirme.dll

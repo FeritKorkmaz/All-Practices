@@ -1,0 +1,15 @@
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\bin\Debug\net6.0\hazirMetotlar(ready methods).exe
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\bin\Debug\net6.0\hazirMetotlar(ready methods).deps.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\bin\Debug\net6.0\hazirMetotlar(ready methods).runtimeconfig.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\bin\Debug\net6.0\hazirMetotlar(ready methods).dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\bin\Debug\net6.0\hazirMetotlar(ready methods).pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\obj\Debug\net6.0\hazirMetotlar(ready methods).csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\obj\Debug\net6.0\hazirMetotlar(ready methods).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\obj\Debug\net6.0\hazirMetotlar(ready methods).AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\obj\Debug\net6.0\hazirMetotlar(ready methods).AssemblyInfo.cs
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\obj\Debug\net6.0\hazirMetotlar(ready methods).csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\obj\Debug\net6.0\hazirMetotlar(ready methods).dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\obj\Debug\net6.0\refint\hazirMetotlar(ready methods).dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\obj\Debug\net6.0\hazirMetotlar(ready methods).pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\obj\Debug\net6.0\hazirMetotlar(ready methods).genruntimeconfig.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\hazirMetotlar(ready methods)\obj\Debug\net6.0\ref\hazirMetotlar(ready methods).dll

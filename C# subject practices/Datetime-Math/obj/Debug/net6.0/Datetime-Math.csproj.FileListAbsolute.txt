@@ -1,0 +1,15 @@
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\bin\Debug\net6.0\Datetime-Math.exe
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\bin\Debug\net6.0\Datetime-Math.deps.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\bin\Debug\net6.0\Datetime-Math.runtimeconfig.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\bin\Debug\net6.0\Datetime-Math.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\bin\Debug\net6.0\Datetime-Math.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\obj\Debug\net6.0\Datetime-Math.csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\obj\Debug\net6.0\Datetime-Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\obj\Debug\net6.0\Datetime-Math.AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\obj\Debug\net6.0\Datetime-Math.AssemblyInfo.cs
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\obj\Debug\net6.0\Datetime-Math.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\obj\Debug\net6.0\Datetime-Math.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\obj\Debug\net6.0\refint\Datetime-Math.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\obj\Debug\net6.0\Datetime-Math.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\obj\Debug\net6.0\Datetime-Math.genruntimeconfig.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\Datetime-Math\obj\Debug\net6.0\ref\Datetime-Math.dll

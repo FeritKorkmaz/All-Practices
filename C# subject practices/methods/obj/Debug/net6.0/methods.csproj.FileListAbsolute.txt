@@ -1,0 +1,15 @@
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\bin\Debug\net6.0\methods.exe
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\bin\Debug\net6.0\methods.deps.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\bin\Debug\net6.0\methods.runtimeconfig.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\bin\Debug\net6.0\methods.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\bin\Debug\net6.0\methods.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\obj\Debug\net6.0\methods.csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\obj\Debug\net6.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\obj\Debug\net6.0\methods.AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\obj\Debug\net6.0\methods.AssemblyInfo.cs
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\obj\Debug\net6.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\obj\Debug\net6.0\methods.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\obj\Debug\net6.0\refint\methods.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\obj\Debug\net6.0\methods.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\obj\Debug\net6.0\methods.genruntimeconfig.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\methods\obj\Debug\net6.0\ref\methods.dll

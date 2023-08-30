@@ -1,0 +1,15 @@
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\bin\Debug\net6.0\for-loop-donguler.exe
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\bin\Debug\net6.0\for-loop-donguler.deps.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\bin\Debug\net6.0\for-loop-donguler.runtimeconfig.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\bin\Debug\net6.0\for-loop-donguler.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\bin\Debug\net6.0\for-loop-donguler.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\obj\Debug\net6.0\for-loop-donguler.csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\obj\Debug\net6.0\for-loop-donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\obj\Debug\net6.0\for-loop-donguler.AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\obj\Debug\net6.0\for-loop-donguler.AssemblyInfo.cs
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\obj\Debug\net6.0\for-loop-donguler.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\obj\Debug\net6.0\for-loop-donguler.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\obj\Debug\net6.0\refint\for-loop-donguler.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\obj\Debug\net6.0\for-loop-donguler.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\obj\Debug\net6.0\for-loop-donguler.genruntimeconfig.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\for-loop-donguler\obj\Debug\net6.0\ref\for-loop-donguler.dll

@@ -1,0 +1,15 @@
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.exe
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.deps.json
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.runtimeconfig.json
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.pdb
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.AssemblyInfo.cs
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\obj\Debug\net6.0\refint\AlanHesaplama.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.pdb
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.genruntimeconfig.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\AlanHesaplama\obj\Debug\net6.0\ref\AlanHesaplama.dll

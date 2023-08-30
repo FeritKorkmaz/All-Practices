@@ -1,0 +1,15 @@
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\bin\Debug\net6.0\method-overloading.exe
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\bin\Debug\net6.0\method-overloading.deps.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\bin\Debug\net6.0\method-overloading.runtimeconfig.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\bin\Debug\net6.0\method-overloading.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\bin\Debug\net6.0\method-overloading.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\obj\Debug\net6.0\method-overloading.csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\obj\Debug\net6.0\method-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\obj\Debug\net6.0\method-overloading.AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\obj\Debug\net6.0\method-overloading.AssemblyInfo.cs
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\obj\Debug\net6.0\method-overloading.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\obj\Debug\net6.0\method-overloading.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\obj\Debug\net6.0\refint\method-overloading.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\obj\Debug\net6.0\method-overloading.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\obj\Debug\net6.0\method-overloading.genruntimeconfig.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\method-overloading\obj\Debug\net6.0\ref\method-overloading.dll

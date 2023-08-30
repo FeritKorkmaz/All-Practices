@@ -1,0 +1,22 @@
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\obj\Debug\net6.0\Barcode GeneratorReader.csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\obj\Debug\net6.0\Barcode GeneratorReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\obj\Debug\net6.0\Barcode GeneratorReader.AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\obj\Debug\net6.0\Barcode GeneratorReader.AssemblyInfo.cs
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\obj\Debug\net6.0\Barcode GeneratorReader.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\bin\Debug\net6.0\Barcode GeneratorReader.exe
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\bin\Debug\net6.0\Barcode GeneratorReader.deps.json
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\bin\Debug\net6.0\Barcode GeneratorReader.runtimeconfig.json
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\bin\Debug\net6.0\Barcode GeneratorReader.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\bin\Debug\net6.0\Barcode GeneratorReader.pdb
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\bin\Debug\net6.0\BarcodeStandard.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\obj\Debug\net6.0\Barcode GeneratorReader.csproj.CopyComplete
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\obj\Debug\net6.0\Barcode GeneratorReader.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\obj\Debug\net6.0\refint\Barcode GeneratorReader.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\obj\Debug\net6.0\Barcode GeneratorReader.pdb
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\obj\Debug\net6.0\Barcode GeneratorReader.genruntimeconfig.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\ZorSeviyeProjeler\Barcode GeneratorReader\obj\Debug\net6.0\ref\Barcode GeneratorReader.dll

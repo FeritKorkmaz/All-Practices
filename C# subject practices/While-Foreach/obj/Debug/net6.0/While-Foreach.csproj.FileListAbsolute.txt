@@ -1,0 +1,15 @@
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\bin\Debug\net6.0\While-Foreach.exe
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\bin\Debug\net6.0\While-Foreach.deps.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\bin\Debug\net6.0\While-Foreach.runtimeconfig.json
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\bin\Debug\net6.0\While-Foreach.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\bin\Debug\net6.0\While-Foreach.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\obj\Debug\net6.0\While-Foreach.csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\obj\Debug\net6.0\While-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\obj\Debug\net6.0\While-Foreach.AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\obj\Debug\net6.0\While-Foreach.AssemblyInfo.cs
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\obj\Debug\net6.0\While-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\obj\Debug\net6.0\While-Foreach.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\obj\Debug\net6.0\refint\While-Foreach.dll
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\obj\Debug\net6.0\While-Foreach.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\obj\Debug\net6.0\While-Foreach.genruntimeconfig.cache
+C:\Users\Ferit\Documents\Sites\All Practices\C# practice\While-Foreach\obj\Debug\net6.0\ref\While-Foreach.dll

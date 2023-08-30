@@ -1,0 +1,15 @@
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\bin\Debug\net6.0\IntegerIkililerininToplami2.exe
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\bin\Debug\net6.0\IntegerIkililerininToplami2.deps.json
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\bin\Debug\net6.0\IntegerIkililerininToplami2.runtimeconfig.json
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\bin\Debug\net6.0\IntegerIkililerininToplami2.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\bin\Debug\net6.0\IntegerIkililerininToplami2.pdb
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\obj\Debug\net6.0\IntegerIkililerininToplami2.csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\obj\Debug\net6.0\IntegerIkililerininToplami2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\obj\Debug\net6.0\IntegerIkililerininToplami2.AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\obj\Debug\net6.0\IntegerIkililerininToplami2.AssemblyInfo.cs
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\obj\Debug\net6.0\IntegerIkililerininToplami2.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\obj\Debug\net6.0\IntegerIkililerininToplami2.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\obj\Debug\net6.0\refint\IntegerIkililerininToplami2.dll
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\obj\Debug\net6.0\IntegerIkililerininToplami2.pdb
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\obj\Debug\net6.0\IntegerIkililerininToplami2.genruntimeconfig.cache
+C:\Users\Ferit\Documents\KOD\Github\All Practices\C# Projects\OrtaSeviyeProjeler\IntegerIkililerininToplami2\obj\Debug\net6.0\ref\IntegerIkililerininToplami2.dll
